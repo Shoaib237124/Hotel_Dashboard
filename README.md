@@ -1,4 +1,4 @@
-**# 🏨 Hotel Performance Dashboard - Power BI
+# 🏨 Hotel Performance Dashboard - Power BI
 
 This repository contains a Power BI dashboard developed to analyze and visualize key performance metrics for a multi-property hotel chain. It enables stakeholders to gain deep insights into revenue performance, room utilization, platform effectiveness, and overall operational efficiency.
 
